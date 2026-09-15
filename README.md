@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="screenshots/banner.png" alt="ASP Nexus Banner" width="100%"/>
-</p>
-
 <h1 align="center">🤖 ASP Nexus AI Workforce</h1>
 <p align="center">
   <b>Intelligent Web Form Automation — OCR · Multi-AI · Playwright</b><br/>
@@ -105,9 +101,38 @@ For the Electron version to work on any page, it needed to reliably identify for
 
 ## 📱 Screenshots
 
-| Document Upload | Field Mapping Review | Playwright Execution | Audit Log |
-|---|---|---|---|
-| ![Upload](screenshots/upload.png) | ![Review](screenshots/review.png) | ![Execute](screenshots/execute.png) | ![Audit](screenshots/audit.png) |
+**Documents — Upload any PDF, Image, Excel, CSV or DOCX**
+![Documents Home](screenshots/documents_home.png)
+
+**Document Processed — OCR Results (1153 words, 100% confidence)**
+![Document OCR Result](screenshots/document_ocr_result.png)
+
+**Document Jobs — OCR + Extraction completed in seconds**
+![Document Jobs](screenshots/document_jobs.png)
+
+**Settings — AI Extraction Pipeline (Mistral OCR → Template → Ollama)**
+![Settings Processing](screenshots/settings_processing.png)
+
+**Settings — System Health Dashboard (DB, Storage, OCR, AI Engine)**
+![Settings Health All OK](screenshots/settings_health_all_ok.png)
+
+**Mapping — Select a Processed Document to Map**
+![Mapping Select Document](screenshots/mapping_select_document.png)
+
+**Mapping — Playwright Scanning Form Fields in Headless Browser**
+![Mapping Scanning](screenshots/mapping_scanning.png)
+
+**Mapping — Review Field Mappings with Confidence Scores**
+![Mapping Review](screenshots/mapping_review.png)
+
+**Mapping — Saved Profile Ready for Reuse**
+![Mapping Saved Profiles](screenshots/mapping_saved_profiles.png)
+
+**Automation — Form Filled in Live Browser, Waiting for Review**
+![Automation Run](screenshots/automation_run.png)
+
+**Result — All Fields Filled Successfully in JotForm**
+![Form Filled Browser](screenshots/form_filled_browser.png)
 
 > 📹 **Demo Video:** [Watch on YouTube](https://youtube.com/your-link-here)
 
